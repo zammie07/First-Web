@@ -1,0 +1,200 @@
+a {
+  text-decoration: none;
+  color: gold;
+  
+  
+}
+
+a:hover {
+  color: aquamarine;
+}
+.body {
+  margin: 0;
+  padding: 0;
+}
+
+.box-1 {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  margin: auto;
+  background-color:midnightblue;
+  border: 8px gold solid;
+
+
+}
+
+
+.header {
+  color: gold;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  
+}
+
+#button-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.center {
+  background-color: gold;
+  border-radius: 10px;
+  
+}
+
+.email {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+}
+
+.center-2 {
+  background-color: gold;
+  border-radius: 10px;
+}
+
+
+
+.box-2 {
+  display: flex;
+  background-color: royalblue;
+ padding: 10px;
+border-bottom: 8px gold solid;
+ 
+
+}
+ 
+
+.title {
+  text-align: center;
+  color: gold;
+  font-size: 35px;
+  font-style: italic;
+  font-weight: 700;
+  text-decoration: underline;
+  background-color: royalblue;
+  padding-bottom: 20px;
+  
+  
+  
+}
+
+.info {
+  display: flex;
+  flex-direction: column; 
+  padding-bottom: 20px;
+  justify-content: center;
+  align-items: center;
+
+}
+  
+
+
+.text-1 {
+  text-align: center;
+  color: palegoldenrod;
+  
+}
+
+
+ul {
+  list-style: none;
+  padding: 10px;
+}
+
+#logo {
+  display: flex;
+  text-align: left;
+ 
+  
+}
+
+h1 {
+  color: gold;
+  text-align: center;
+}
+
+p {
+  color: white;
+  text-align: center;
+}
+
+.links {
+  display: flex;
+  gap: 8px;
+  margin-left: auto;
+}
+  
+
+.box-3 {
+  display: flex;
+  flex-direction: column;
+}
+
+.box-3 {
+  background-color: #1f2937;
+
+}
+
+h2 {
+  text-align: center;
+  color: gold;
+  text-decoration: underline;
+  font-style: italic;
+}
+
+.text-2 {
+  color: palegoldenrod;
+  text-align: center;
+}
+
+h3 {
+  color: palegoldenrod;
+  text-align: center;
+}
+
+.name {
+  color: gold;
+  text-align: center;
+}
+
+.footer-box {
+  display: flex;
+  background-color:black;
+  height: 50px;
+  align-items: center;
+  justify-content: center;
+  border: 8px gold solid;
+ 
+  
+}
+
+#footer-text {
+  color:gold;
+ text-align: center;
+  background-color:black;
+  
+  
+}
+
+#email {
+  padding: 8px;
+  border-radius: 10px;
+  color: white;
+  background-color: darkblue;
+  border-radius: 8px;
+  height: 35px;
+  width: 65px;
+  padding: 0;
+
+}
+
+img {
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+}
